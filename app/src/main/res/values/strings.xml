@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppCoroutineDog</string>
+    <string name="fetch_image">buscar</string>
+</resources>
